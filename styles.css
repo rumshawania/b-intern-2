@@ -1,0 +1,34 @@
+body {
+    
+background: linear-gradient(to right, #ce8eec, #9f13ea, #841abc, #500479);
+
+    
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+}
